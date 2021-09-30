@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{2bb80467-5820-75ee-4467-3d28f19636a4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualButtonsScripts", "VirtualButtonsScripts.csproj", "{f1c44c61-e746-2d4f-ead8-c1d6473f390c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{f98d439d-bd03-93f1-67fb-8b623e7a8ba6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2bb80467-5820-75ee-4467-3d28f19636a4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2bb80467-5820-75ee-4467-3d28f19636a4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f1c44c61-e746-2d4f-ead8-c1d6473f390c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f1c44c61-e746-2d4f-ead8-c1d6473f390c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f98d439d-bd03-93f1-67fb-8b623e7a8ba6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f98d439d-bd03-93f1-67fb-8b623e7a8ba6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
